@@ -8,7 +8,7 @@ Getting Started:
 ----------------
 
 1. Prerequisites:
-- Python 3.x
+- Python 3
 - TensorFlow
 - NumPy
 - Matplotlib
